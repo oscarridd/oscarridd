@@ -1,0 +1,19 @@
+html {
+      font-family: Lucida Console;
+      font-size: 12px;
+  }
+h1 {
+      max-width: max-content;
+      padding = 0 20px;
+      background: #6082B6;
+      color: white;
+  }
+ol {
+      background: powderblue;
+      padding: 20px;
+  }
+ol li {
+      background: mistyrose;
+      color: darkblue;
+      margin: 5px;
+  }
